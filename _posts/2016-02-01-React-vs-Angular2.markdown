@@ -1,51 +1,29 @@
 ---
 layout:     post
-title:      "React vs Angular 2：冰与火之歌「译」"
-subtitle:   "React versus Angular 2: There Will Be Blood"
+title:      "Polymer electrolytes based on polysilane comb polymers"
+subtitle:   "基于梳形硅烷共聚物的聚合物电解质"
 date:       2016-02-01 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-re-vs-ng2.jpg"
+author:     "Huixueee"
+header-img: "img/paper-background-1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 前端开发
-    - JavaScript
-    - 译文
+    - 聚硅烷
+    - 梳形聚合物
 ---
 
-> 这篇文章转载自[我在知乎专栏「前端外刊评论」上发表的文章](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)。
+> 本文介绍了三种梳形硅烷聚合物电解质，使用锂盐LiCF<SUB>3</sub>SO<SUB>3</sub>在锂氧比为1:4的情况下获得了最佳电导率，约为1.2X10<SUp>7</sup>S cm<SUp>-1</sup>
+                                                                         
+                                                                         
+## 【引言】
 
+作者合成了大分子量的含醚氧侧链的硅烷聚合物，使用三氟甲磺酸锂，测定不同锂氧比的条件下电解质的电导率。
 
-[Angular 2](https://angular.io/) 已经发布 Beta 版，而且似乎很有信心在 2016 年成为热门框架。是时候进行一场巅峰对决了，我们来看看它如何与 [React](https://facebook.github.io/react/) 这个 2015 年的新宠抗衡。
+## 【实验步骤】
 
+###电解质制备
 
-**免责声明：**我之前很喜欢使用 Angular 1，不过在 2015 年转到了 React。最近我也在 Pluralsight 上发布了一门关于 [React 和 Flux 的课程](https://www.pluralsight.com/courses/react-flux-building-applications)（[免费试学](http://app.pluralsight.com/signup)）。所以，**是的，我本人是有偏见的，但我不会偏袒任何一方。**
-
-好了，我们开始吧，这场对决将会非常血腥。
-
-![](https://cdn-images-1.medium.com/max/800/1*MRPl_SNuRGJchb6eOAnkSA.jpeg)
-
-图片来源：[@jwcarrol](https://twitter.com/jwcarroll)
-
-## 两者根本不具有可比性！
-
-是的是的，Angular 是框架，React 是类库。所以有人觉得比较这两者没有逻辑性可言。大错特错！
-
-> 选择 Angular 还是 React 就像选择直接购买成品电脑还是买零件自己组装一样。
-
-两者的优缺点本文都会提及，我会拿 React 语法和组件模型跟 Angular 的语法和组件模型做对比。这就像是拿成品电脑的 CPU 跟零售的 CPU 做对比，没有任何不妥。
-
-## Angular 2 的优点
-
-我们先看 Angular 相对 React 有哪些优势。
-
-#### **无选择性疲劳**
-
-Angular 是一个完整的框架，本身就提供了比 React 多得多的建议和功能。而要用 React，开发者通常还需要借助别的类库来打造一个真正的应用。比如你可能需要额外的库来处理路由、强制单向数据流、进行 API 调用、做测试以及管理依赖等等。要做的选择和决定太多了，让人很有压力。这也是为什么 React 有那么多的入门套件的原因（我自己就写了两个：[1](https://github.com/coryhouse/react-flux-starter-kit)、[2](https://github.com/coryhouse/react-slingshot)）。
-
-Angular 自带了不少主张，所以能够帮助你更快开始，不至于因为要做很多决定而无所适从。这种强制的一致性也能帮助新人更快适应其开发模式，并使得开发者在不同团队间切换更具可行性。
-
-Angular 核心团队让我非常欣赏的一点是，他们拥抱了 TypeScript，这就造成了另一个优势。
+采用单体二氯硅烷，使用Wurtz偶联反应来制备聚硅烷聚合物。
 
 #### TypeScript = 阳关大道
 
