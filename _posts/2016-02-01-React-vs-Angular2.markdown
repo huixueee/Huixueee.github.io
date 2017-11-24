@@ -2,7 +2,7 @@
 layout:     post
 title:      "Polymer electrolytes based on polysilane comb polymers"
 subtitle:   "基于梳形硅烷共聚物的聚合物电解质"
-date:       2016-02-01 12:00:00
+date:       2017-11-23 12:00:00
 author:     "Huixueee"
 header-img: "img/paper-background-1.jpg"
 header-mask: 0.3
