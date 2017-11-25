@@ -49,4 +49,7 @@ tags:
 ![img](/img/in-post/post-2/post-6.jpg)
 
 
-博客站的构筑离不开模板提供者的帮助，感谢[Hux Blog](https://github.com/Huxpro/huxpro.github.io) 以及 [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)提供的模板和设置教程。
+## 【4.主要引用文献】
+> * Z. Zhang, L.J. Lyons, K. Amine, R. West, Macromolecules 38 (13)(2005) 5714.
+> * K. Xu, S. Zhang, T.R. Jow, W. Xu, C.A. Angell, Electrochem. Solid-State Lett. 5 (2002) A26.
+> * K. Xu, S. Zhang, T.R. Jow, Electrochem. Solid-State Lett. 6 (2003)A117.
