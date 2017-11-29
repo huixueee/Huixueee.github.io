@@ -6,9 +6,9 @@ date:       2017-11-26 13:00:00
 author:     "huixueee"
 header-img: "img/in-post/paper-background-3.jpg"
 tags:
-    - 聚硅烷
-    - LiBOB
-    - 液态电解质
+    - 硅氧烷
+    - LiTFSI
+    - 固态电解质
 ---
 
 >采用单体PEGMA(**聚乙二醇甲基丙烯酸酯**)与MA-POSS(**倍半硅氧烷**)，使用RATF方法制备了无规以及嵌段共聚物，讨论采用不同比例的单体合成的聚合物的电化学性能。
