@@ -109,3 +109,21 @@ P(PEGMA)的链移动性受限。在微相不发达的无规共聚物电解质中
 间显示出明确的纳米相分离结构。在30℃时含31％MA-POSS部分的嵌段共聚物电解质的离子电导率比具有29％MA-POSS的无规共聚物电解质高约1个数量级。当它们掺杂
 相同量的LiTFSI（Li/EO=0.09）时，该值接近于蜡态P(PEGMA)电解质的值。嵌段共聚物电解质这种较大的离子电导率值可归因于P(MA-POSS)嵌段的引入，其引起形
 成有效的纳米级离子传导通道，同时保持聚合物的固态。
+
+## 【4.主要引用文献】
+> * Rossi, N. A. A.; Zhang, Z.; Schneider, Y.; Morcom, K.; Lyons, L.J.; Wang, Q.; Amine, K.; West, R. Chem. Mater. 2006, 18, 1289−1295.
+> * Zhang, L.; Zhang, Z.; Harring, S.; Straughan, M.; Butorac, R.;Chen, Z.; Lyons, L.; Amine, K.; West, R. J. Mater. Chem. 2008, 18,3713−3717.
+> * Capuano, F.; Croce, F.; Scrosati, B. J. Electrochem. Soc. 1991,138, 1918−1922.
+> * Tominaga, Y.; Asai, S.; Sumita, M.; Panero, S.; Scrosati, B. J.Power Sources 2005, 146, 402−406.
+> * Hou, X.; Siow, K. S. Solid State Ionics 2002, 147, 391−395.
+> * Oh, B.; Vissers, D.; Zhang, Z.; West, R.; Tsukamoto, H.; Amine,K. J. Power Sources 2003, 119, 442−447.
+> * Jeon, J.-D.; Kwak, S.-Y.; Cho, B.-W. J. Electrochem. Soc. 2005,152, A1583−A1589.
+> * Dong, F.; Ha, C.-S. Macromol. Res. 2012, 20, 335−343.
+> * Wang, F.; Lu, X.; He, C. J. Mater. Chem. 2011, 21, 2775−2782.
+> * Ryu, H.-S.; Kim, D.-G.; Lee, J.-C. Polymer 2010, 51, 2296−2304.
+> * Ryu, H.-S.; Kim, D.-G.; Lee, J.-C. Macromol. Res. 2010, 18,1021−1029.
+> * Strachota, A.; Kroutilová, I.; Kovářová, J.; Matějka, L.Macromolecules 2004, 37, 9457−9464.
+> * Wu, J.; Haddad, T. S.; Mather, P. T. Macromolecules 2009, 42,1142−1152.
+> * Bates, F. S. Macromolecules 1984, 17, 2607−2613.    
+> * Rosedale, J. H.; Bates, F. S. Macromolecules 1990, 23, 2329−2338.
+> * Bates, F. S.; Rosedale, J. H.; Fredrickson, G. H. J. Chem. Phys.1990, 92, 6255−6270.
