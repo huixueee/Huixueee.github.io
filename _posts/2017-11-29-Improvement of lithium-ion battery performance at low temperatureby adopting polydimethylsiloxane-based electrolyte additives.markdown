@@ -1,5 +1,6 @@
 ---
-layout:     post of Lithium-Ion Transport Mechanisms in Polyester-Based Polymer Electrolytes"
+layout:     post
+title:      "Systematic Computational and Experimental Investigation of Lithium-Ion Transport Mechanisms in Polyester-Based Polymer Electrolytes"
 subtitle:   "聚酯基聚合物电解质中锂离子迁移机理的系统计算与实验研究"
 date:       2017-12-2 13:00:00
 author:     "huixueee"
@@ -9,6 +10,7 @@ tags:
     - LiTFSI
     - PEO
     - Li传输机理
+    - 固态电解质
 ---
 
 > 研究了酯基聚合物和环氧乙烷聚合物中的锂离子传输机理。模拟表明锂离子在聚酯中的扩散是不同于PEO的机制传输的，分析各种
