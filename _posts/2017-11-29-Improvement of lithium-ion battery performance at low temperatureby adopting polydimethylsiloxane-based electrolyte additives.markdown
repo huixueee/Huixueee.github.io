@@ -6,9 +6,8 @@ author:     "huixueee"
 header-img: "img/in-post/paper-background-4.jpg"
 tags:
     - 酯基
-    - PEO
     - LiTFSI
-    - 固态电解质
+    - PEO
     - Li传输机理
 ---
 
@@ -66,3 +65,4 @@ PEO侧链配位。为了提供锂离子溶剂化环境的更加定量的观点�
 配位能力。聚合物1a与1b的比较以及聚合物2a与2b的比较也表明，当聚合物在骨架中具有额外的氧原子时，较少的链参与锂离子配位。
 
 ![img](/img/in-post/post-4/post-6.jpg)
+
