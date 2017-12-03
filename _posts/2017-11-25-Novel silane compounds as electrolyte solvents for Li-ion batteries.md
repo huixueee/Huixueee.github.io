@@ -4,7 +4,7 @@ title:      "Novel silane compounds as electrolyte solvents for Li-ion batteries
 subtitle:   "新型硅烷化合物作为锂离子电池的电解质溶剂"
 date:       2017-11-25 13:00:00
 author:     "huixueee"
-header-img: "img/in-post/paper-background-2.jpg"
+header-img: "img/in-post/paper-background/paper-background-2.jpg"
 tags:
     - 聚硅烷
     - LiBOB

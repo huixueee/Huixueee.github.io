@@ -4,7 +4,7 @@ title:      "A Highly Conductive Solid-State Polymer Electrolyte Based on a Doub
 subtitle:   "含氧化乙烯基侧链的双梳形硅氧烷的固态聚合物电解质"
 date:       2017-11-23 12:00:00
 author:     "Huixueee"
-header-img: "img/in-post/paper-background-1.jpg"
+header-img: "img/in-post/paper-background/paper-background-1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

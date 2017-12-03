@@ -4,7 +4,7 @@ title:      "Systematic Computational and Experimental Investigation of Lithium-
 subtitle:   "聚酯基聚合物电解质中锂离子迁移机理的系统计算与实验研究"
 date:       2017-12-2 13:00:00
 author:     "huixueee"
-header-img: "img/in-post/paper-background-4.jpg"
+header-img: "img/in-post/paper-background/paper-background-4.jpg"
 tags:
     - 酯基
     - LiTFSI

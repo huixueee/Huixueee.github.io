@@ -4,7 +4,7 @@ title:      "Organic/Inorganic Hybrid Block Copolymer Electrolytes with Nanoscal
 subtitle:   "具有纳米级离子导电通道的有机/无机混合嵌段共聚物电解质"
 date:       2017-11-26 13:00:00
 author:     "huixueee"
-header-img: "img/in-post/paper-background-3.jpg"
+header-img: "img/in-post/paper-background/paper-background-3.jpg"
 tags:
     - 硅氧烷
     - LiTFSI
