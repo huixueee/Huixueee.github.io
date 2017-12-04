@@ -31,8 +31,16 @@ tags:
 
 ![img](/img/in-post/post-5/post-1.jpg)
 
-在这项工作中，合成了四种类型的混合SPE，缩写为PEG-*n*PEG*m*，其组成和特性总结在**表1**中。这里n表示POSS和PEG之间的摩尔比，m是每个PEG片段的分子量。
+在这项工作中，合成了四种类型的混合SPE，缩写为PEG-*n*PEG*m*，其组成和特性总结在**表1**中。这里n表示POSS和PEG之间的摩尔比，m是每个PEG链段的分子量。
 
 ![img](/img/in-post/post-5/post-2.jpg)
+
+使用红外光谱去表征SPE的聚合情况，发现醚氧特征峰910 cm<sup>-1</sup>消失，说明合成了所需要的SPE。在DSC图像中（图s2）[Supporting Information](http://onlinelibrary.wiley.com/store/10.1002/adma.201502059/asset/supinfo/adma201502059-sup-0001-S1.pdf?v=1&s=97d5417f440afca1d8c0dfa8eec5d0716acdce6d)
+PEG2K和PEG6K可以观察到熔点分别为49℃和160℃,而在POSS-2PEG2K和POSS-4PEG2K中只观察到了T<sub>g</sub>为−42.7和−44.5℃。在两种SPE中PEG结晶被完全抑制，
+表明大部分PEG链端与POSS共价连接，因此其网络结构接近于**图1c**所示的理想结构。当使用更长的PEG链或在网络中引入自由链末端时，如在POSS-2PEG6K和POSS-6PEG2K的情况下，
+在36.2和22.8℃的熔融温度下可以观察到PEG结晶，分别比PEG2K和PEG6K均聚物的结晶温度相对来说更低。
+
+
+![img](/img/in-post/post-5/post-3.jpg)
 
 
