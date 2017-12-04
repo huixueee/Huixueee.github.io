@@ -29,10 +29,10 @@ tags:
 受到上述的启发，我们使用POSS通过一锅法制备了了一种新的SPE**图1a**，基于POSS网络的SPE表现出优异的电导率，机械性能，锂枝晶生长阻力，并提高全固态LMB
 的循环稳定性和倍率能力。
 
-！[img](/img/in-post/post-5/post-1.jpg)
+![img](/img/in-post/post-5/post-1.jpg)
 
 在这项工作中，合成了四种类型的混合SPE，缩写为PEG-*n*PEG*m*，其组成和特性总结在**表1**中。这里n表示POSS和PEG之间的摩尔比，m是每个PEG片段的分子量。
 
-！[img](/img/in-post/post-5/post-2.jpg)
+![img](/img/in-post/post-5/post-2.jpg)
 
 
