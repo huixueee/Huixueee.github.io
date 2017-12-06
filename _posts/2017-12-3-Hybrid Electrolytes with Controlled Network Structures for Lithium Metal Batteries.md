@@ -16,10 +16,15 @@ tags:
 
 * 1.聚合物的合成
 * 2.电化学性能测试
-* 3.结论
-* 4.主要文献引用
+* 3.主要文献引用
 
 ## 【1.聚合物的合成】
+原料：倍半硅氧烷(POSS)、双(3-氨基丙基)聚乙二醇(M<sub>n</sub>=2000g mol<sup>-1</sup>)、氨基封端聚乙二醇(M<sub>n</sub>=6000g mol<sup>-1</sup>)、 LiTFSI和四氢呋喃(Aldrich)。锂箔由Alfa Aesar提供。 LiFePO<sub>4</sub>和炭黑得自MTI公司。
+POSS-2PEG2K制备：将POSS（80.6mg），双(3-氨基丙基)聚乙二醇（-1,161.1mg）和LiTFSI（62.7mg）溶于1.0mL的THF中并在60℃下反应3小时。然后将溶液浇
+铸到玻璃板上。反应物在室温下蒸发2小时后，将样品置于真空烘箱中，在90℃下固化12小时。然后将真空烘箱加热至120℃固化2小时以确保所有环氧基团都反应。
+在真空下冷却至室温后，将样品转移至氩气手套箱中。
+   
+## 【2.电化学性能测试】
 进来人们为了增加电池的能量密度，用纯锂负极( C<sub>p</sub>=3860 mAh g<sup>-1</sup>)取代了石墨负极( C<sub>p</sub>=372 mAh g<sup>-1</sup>)，
 去制备锂电极电池(LMB)。但是制备锂电极电池最大的问题就是在循环过程中由于锂沉积的不均匀导致电池短路。对于这种晶枝的生成有过诸多研究，Chazalviel等人认为
 认为锂离子电极附近的阴离子耗尽可能会增大电场，从而导致树枝状晶体生长，该模型表明为了防止阴离子消耗，优选具有高离子电导率和低阴离子迁移率的电解质。另
@@ -55,5 +60,42 @@ POSS-4PEG2K显示出几乎恒定的储能模量≈38.5和33.6MPa; 这些值与90
 
 为了研究在交联SPE中锂的电沉积，在90℃下组装Li|交联SPE|Li对称电池**图3a**使用三小时充电和三小时放电的恒电流循环实验。 在图3b-d中显示了对于POSS-4PEG2K获
 得的锂对称电池的典型的恒电流循环曲线。经过长时间的剥离/电镀，锂箔的表面变得更粗糙，导致锂和SPE接触引起的电压略微升高。所有电池都进行循环，直到观察到电压
-突然大幅下降（大于50％）。 如图3e所示，记录短路前的电荷（C<sub>d</sub>值）。使用PEO/LiTFSI作为对照组，当J=0.3和0.5 mA cm<sup>−2</sup>时C<sub>d</sub>为
-54and4.3 C cm<sup>−2</sup>。
+突然大幅下降（大于50％）。 如**图3e**所示，记录短路前的电荷（C<sub>d</sub>值）。使用PEO/LiTFSI作为对照组，当J=0.3和0.5 mA cm<sup>−2</sup>时C<sub>d</sub>为
+54和4.3C cm<sup>−2</sup>。然而合成的四种交联聚合物具有比PEO对照组更优良的C<sub>d</sub>值。**图3b**显示了在J=0.3 mA cm<sup>−2</sup>时Li|POSS-4PEG2K|Li电池
+在2600小时后C<sub>d</sub>>2808C cm<sup>−2</sup>，性能是PEO样品的50倍。Monroe和Newman提出隔膜的锂枝晶电阻与其剪切模量相对应。在90℃时G'=43MPa的TiO<sub>2</sub>/SEO混
+合电解质（厚度=24μm）在J=0.17mA cm<sup>-2</sup>时显示1766C cm<sup>-2</sup>的高C<sub>d</sub>,对于SPE电解质，则缺乏这方面的报道。这里我们报道了高模量的SPE电解质
+在恶劣的电化学条件下对锂枝晶生长的抑制。除了力学性能之外，我们认为SPE的网络结构对抑制锂枝晶生长至关重要。纳米网格尺寸的均匀交联结构允许锂离子迁移，但是
+限制了锂团簇和锂枝晶的迁移。
+
+![img](/img/in-post/post-5/post-5.jpg)
+
+为了证明该交联SPE的实用性，我们选取了POSS-2PEG6K，这个机械性能以及电导率最为适中的聚合物，作为Li/LiFePO<sub>4</sub>电池体系中的电解质,复合阴极由60％的LiFePO<sub>4</sub>，
+32％的POSS-2PEG6K和8％的炭黑组成。从图4b-d的几组电化学测试可以看出电解质的高离子电导率和优异的抗锂枝晶生长性能给予电池的优异的稳定性。
+
+![img](/img/in-post/post-5/post-6.jpg)
+
+## 【3.主要文献引用】
+> * J.N.Chazalviel,Phys.Rev.A 1990,42,7355 .
+> * C.Monroe,J.Newman,J.Electrochem.Soc.2005,152,A396.
+> * I.Gurevitch,R.Buonsanti,A.A.Teran,B.Gludovatz,R.O.Ritchie,
+    J.Cabana,N.P.Balsara,J.Electrochem.Soc.2013,160,A1611.
+> * G.M.Stone,S.A.Mullin,A.A.Teran,D.T.Hallinan Jr.,A.M.Minor,
+    A.Hexemer,N.P.Balsara,J.Electrochem.Soc.2012,159,A222.
+> * R.Bouchet,S.Maria,R.Meziane,A.Aboulaich,L.Lienafa,
+    J.P.Bonnet,T.N.T.Phan,D.Bertin,D.Gigmes,D.Devaux,
+    R.Denoyel,M.Armand,Nat.Mater.2013,12,452.
+> * R.Khurana,J.L.Schaefer,L.A.Archer,G.W.Coates,J.Am.Chem.
+    Soc.2014,136,7395.
+> * H.Zhang,S.Kulkarni,S.L.Wunder,J.Electrochem.Soc.2006,153,
+    A239.
+> * M.W.Schulze,L.D.McIntosh,M.A.Hillmyer,T.P.Lodge,Nano
+    Lett.2014,14,122.
+> * J.L.Nugent,S.S.Moganty,L.A.Archer,Adv.Mater.2010,22,3677.
+> * D.Devaux,R.Bouchet,D.Gle,R.Denoyel,Solid State Ionic 2012,
+    227,119.
+
+
+
+
+
+
