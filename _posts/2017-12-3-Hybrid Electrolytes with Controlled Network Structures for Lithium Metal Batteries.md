@@ -75,7 +75,7 @@ POSS-4PEG2K显示出几乎恒定的储能模量≈38.5和33.6MPa; 这些值与90
 ![img](/img/in-post/post-5/post-6.jpg)
 
 ## 【3.主要文献引用】
-> * J.N.Chazalviel,Phys.Rev.A 1990,42,7355 .
+> * J.N.Chazalviel,Phys.Rev.A 1990,42,7355.
 > * C.Monroe,J.Newman,J.Electrochem.Soc.2005,152,A396.
 > * I.Gurevitch,R.Buonsanti,A.A.Teran,B.Gludovatz,R.O.Ritchie,J.Cabana,N.P.Balsara,J.Electrochem.Soc.2013,160,A1611.
 > * G.M.Stone,S.A.Mullin,A.A.Teran,D.T.Hallinan Jr.,A.M.Minor,A.Hexemer,N.P.Balsara,J.Electrochem.Soc.2012,159,A222.
