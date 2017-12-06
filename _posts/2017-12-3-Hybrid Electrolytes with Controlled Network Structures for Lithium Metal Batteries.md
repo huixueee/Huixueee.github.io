@@ -77,22 +77,14 @@ POSS-4PEG2K显示出几乎恒定的储能模量≈38.5和33.6MPa; 这些值与90
 ## 【3.主要文献引用】
 > * J.N.Chazalviel,Phys.Rev.A 1990,42,7355 .
 > * C.Monroe,J.Newman,J.Electrochem.Soc.2005,152,A396.
-> * I.Gurevitch,R.Buonsanti,A.A.Teran,B.Gludovatz,R.O.Ritchie,
-    J.Cabana,N.P.Balsara,J.Electrochem.Soc.2013,160,A1611.
-> * G.M.Stone,S.A.Mullin,A.A.Teran,D.T.Hallinan Jr.,A.M.Minor,
-    A.Hexemer,N.P.Balsara,J.Electrochem.Soc.2012,159,A222.
-> * R.Bouchet,S.Maria,R.Meziane,A.Aboulaich,L.Lienafa,
-    J.P.Bonnet,T.N.T.Phan,D.Bertin,D.Gigmes,D.Devaux,
-    R.Denoyel,M.Armand,Nat.Mater.2013,12,452.
-> * R.Khurana,J.L.Schaefer,L.A.Archer,G.W.Coates,J.Am.Chem.
-    Soc.2014,136,7395.
-> * H.Zhang,S.Kulkarni,S.L.Wunder,J.Electrochem.Soc.2006,153,
-    A239.
-> * M.W.Schulze,L.D.McIntosh,M.A.Hillmyer,T.P.Lodge,Nano
-    Lett.2014,14,122.
+> * I.Gurevitch,R.Buonsanti,A.A.Teran,B.Gludovatz,R.O.Ritchie,J.Cabana,N.P.Balsara,J.Electrochem.Soc.2013,160,A1611.
+> * G.M.Stone,S.A.Mullin,A.A.Teran,D.T.Hallinan Jr.,A.M.Minor,A.Hexemer,N.P.Balsara,J.Electrochem.Soc.2012,159,A222.
+> * R.Bouchet,S.Maria,R.Meziane,A.Aboulaich,L.Lienafa,J.P.Bonnet,T.N.T.Phan,D.Bertin,D.Gigmes,D.Devaux,R.Denoyel,M.Armand,Nat.Mater.2013,12,452.
+> * R.Khurana,J.L.Schaefer,L.A.Archer,G.W.Coates,J.Am.Chem.Soc.2014,136,7395.
+> * H.Zhang,S.Kulkarni,S.L.Wunder,J.Electrochem.Soc.2006,153,A239.
+> * M.W.Schulze,L.D.McIntosh,M.A.Hillmyer,T.P.Lodge,Nano Lett.2014,14,122.
 > * J.L.Nugent,S.S.Moganty,L.A.Archer,Adv.Mater.2010,22,3677.
-> * D.Devaux,R.Bouchet,D.Gle,R.Denoyel,Solid State Ionic 2012,
-    227,119.
+> * D.Devaux,R.Bouchet,D.Gle,R.Denoyel,Solid State Ionic 2012,227,119.
 
 
 
