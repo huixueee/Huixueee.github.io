@@ -57,4 +57,8 @@ PEO不用含量(35-50%)的PSF-PEOs由GPC测定其分子量，结果如**表一**
 
 ![img](/img/in-post/post-7/post-5.jpg)
 
-**图5**为几种聚合物的DSC图像
+**图5**为几种聚合物的DSC图像,其中SN显示出两个转变态。-35℃为晶体到塑晶的转变，56℃为SN的熔点。在SN中添加30wt％的LiTFSI后，SN的熔点消失，这是将LiTFSI溶解在高极性的SN
+中的结果.PSF-PEO35的玻璃化转变温度（Tg）约为49℃。整个共聚物的无规结构导致单一的Tg，显示出其无定形特征。随着LiTFSI的加入，共聚物中PEO链段的Tg在17±1℃处观察到。
+部分相分离出现在PSF-PEO35+LiTFSI体系中，因为Li +阳离子与环氧乙烷基团结合形成聚合物-盐络合物。
+
+![img](/img/in-post/post-7/post-6.jpg)
