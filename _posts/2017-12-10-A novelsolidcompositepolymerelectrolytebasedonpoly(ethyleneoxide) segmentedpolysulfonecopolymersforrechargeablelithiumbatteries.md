@@ -88,7 +88,6 @@ SN对Li金属电极具有更好的润湿性和相容性。然而还不明朗的�
 > * M.Marzantowicz,J.Dygas,F.Krok,A.Tomaszewska,Z.Florjanczyk,Star-branched poly(ethyleneoxide)LiN(CF3SO2)2: a promising polymer electrolyte, J.Power Sources 194(2009)51–57.
 > * T.Niitani,M.Amaike,H.Nakano,K.Dokko,K.Kanamura,Star-shaped polymer electrolyte with microphase separation structure for all-solid-state lithium batteries,J.Electrochem.Soc.156(2009)A577–A583.
 > * M.Jacob,S.Prabaharan,S.Radhakrishna,Effect of PEO addition on the electrolytic and thermal properties of PVDF-LiClO4 polymer electrolytes,Solid State Ionics 104(1997)267–276.
-> * F.Yuan,H.Z.Chen,H.Y.Yang,H.Y.Li,M.Wang,PAN–PEO solid polymer electrolytes withhighionicconductivity,Mater.Chem.Phys.89(2005)390–394.
-> *
-> *
-> *
+> * F.Yuan,H.Z.Chen,H.Y.Yang,H.Y.Li,M.Wang,PAN–PEO solid polymer electrolytes with high ionic conductivity,Mater.Chem.Phys.89(2005)390–394.
+> * S.Wang,K.Min,Solid polymer electrolytes of blends of polyurethane and polyether modified polysiloxane and their ionic conductivity,Polymer 51 (2010) 2621–2628.
+> *X.Gu,Y.Kuang,X.Guo,J.Fang,Z.Ni,Synthesis and drug release properties of poly(ethylene oxide)segmented polysulfone copolymers,J.Controlled Release 127(2008)267–272.
