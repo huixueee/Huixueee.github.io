@@ -2,7 +2,7 @@
 layout:     post
 title:      "A novel solid composite polymer electrolyte based on poly(ethylene oxide)segmented polysulfone copolymers for rechargeable lithium batteries"
 subtitle:   "新型固体聚合物电解质基于聚环氧乙烷链段聚砜共聚物可充电锂电池"
-date:       2017-12-6 13:00:00
+date:       2017-12-11 13:00:00
 author:     "huixueee"
 header-img: "img/in-post/paper-background/paper-background-7.jpg"
 tags:
