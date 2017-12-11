@@ -59,6 +59,36 @@ PEO不用含量(35-50%)的PSF-PEOs由GPC测定其分子量，结果如**表一**
 
 **图5**为几种聚合物的DSC图像,其中SN显示出两个转变态。-35℃为晶体到塑晶的转变，56℃为SN的熔点。在SN中添加30wt％的LiTFSI后，SN的熔点消失，这是将LiTFSI溶解在高极性的SN
 中的结果.PSF-PEO35的玻璃化转变温度（Tg）约为49℃。整个共聚物的无规结构导致单一的Tg，显示出其无定形特征。随着LiTFSI的加入，共聚物中PEO链段的Tg在17±1℃处观察到。
-部分相分离出现在PSF-PEO35+LiTFSI体系中，因为Li +阳离子与环氧乙烷基团结合形成聚合物-盐络合物。
+部分相分离出现在PSF-PEO35+LiTFSI体系中，因为Li<sup>+</sup>阳离子与环氧乙烷基团结合形成聚合物-盐络合物。在进一步添加SN之后，PSF-PEO35中PEO链段的Tg从〜17±1℃转变
+为〜52±1℃。 这里，LiTFSI溶解在SN中，而且与PEO链段相互作用。因此，PEO，SN和LiTFSI之间形成了强烈的相互作用，在PEO，SN和LiTFSI之间形成了一个广泛的非晶区域。
+在PSF-PEO35+LiFTSI+SN体系中，宽的非晶区可能带来快速的离子传导，而刚性的PSF链作为骨架稳定固体电解质的结构。
 
 ![img](/img/in-post/post-7/post-6.jpg)
+
+**图6**显示了PSF-PEO35+LiTFSI和PSF-PEO35+LiTFSI+SN电解质薄膜的应力-应变曲线。在室温下，两种薄膜都显示出高拉伸强度**图6a**所示。
+PSF-PEO35+LiTFSI薄膜的拉伸强度为14.7MPa，断裂伸长率为1600％，随着SN的增加，断裂伸长率升高到2400％。然而，PSF-PEO35+LiTFSI+SN由于SN的高塑
+性，薄膜拉伸强度降低到9.6MPa。软质（SN）的增加导致薄膜的弹性显着增强。**图6b**显示了在80℃下PSF-PEO35+LiTFSI和PSF-PEO35+LiTFSI+SN电解质膜的应力-应变
+曲线。由于在80℃时SN和PEO已经变为熔融态具有高变形性，两种样品的机械强度都随着温度升高而降低。PSF-PEO35+LiTFSI薄膜的拉伸强度为6.86 MPa，断裂伸长率为860％，添
+加35％SN导致机械强度损失较大，拉伸强度降低至4.3MPa，断裂伸长率约为550％。即使如此，这种电解质膜仍然可以保持良好的自立行为和热稳定性。
+
+![img](/img/in-post/post-7/post-7.jpg)
+
+**图7**为PSF-PEO35+LiTFSI和PSF-PEO35+LiTFSI+SN电解质的交流阻抗图。**图8a**中PSF-PEO35+LiTFSI的界面阻抗在第一周为5.9×10<sup>3</sup>Ωcm<sup>2</sup>,循环四周后回落到
+4.9×10<sup>3</sup>Ωcm<sup>2</sup>。**图8b**PSF-PEO35+LiTFSI+SN体系中循环两周后也观察到电阻的回落。可以看出SN的加入显著影响了界面电阻R<sub>i</sub>，降低了约300Ω。说明
+SN对Li金属电极具有更好的润湿性和相容性。然而还不明朗的是**为什么界面阻力随着储存时间而减少，特别是在初始阶段**。可能的解释为更优异的界面湿度需要一段时间，或者在初始
+储存期间在Li和聚合物电解质之间形成具有离子导电性的兼容界面层。
+
+![img](/img/in-post/post-7/post-8.jpg)
+
+## 【3.结论】
+制备PSF-PEOX时（X=30-50%）发现当PEO含量为35%时具有最佳电导率，SN的加入也改善了电解质的物理与化学性能，不同组分之间的物理和化学相互作用产生宽的无定形区域，带来快速的离子传导。
+同时PSF-PEO35+LiTFSI+SN在Li/LiFePO<sub>4</sub>电池中具有良好的循环能力，电池容量，以及抑制了枝晶生长，具有发展前景。
+
+## 【4.主要文献引用】
+> * M.Marzantowicz,J.Dygas,F.Krok,A.Tomaszewska,Z.Florjanczyk,Star-branched poly(ethyleneoxide)LiN(CF3SO2)2: a promising polymer electrolyte, J.Power Sources 194(2009)51–57.
+> * T.Niitani,M.Amaike,H.Nakano,K.Dokko,K.Kanamura,Star-shaped polymer electrolyte with microphase separation structure for all-solid-state lithium batteries,J.Electrochem.Soc.156(2009)A577–A583.
+> * M.Jacob,S.Prabaharan,S.Radhakrishna,Effect of PEO addition on the electrolytic and thermal properties of PVDF-LiClO4 polymer electrolytes,Solid State Ionics 104(1997)267–276.
+> * F.Yuan,H.Z.Chen,H.Y.Yang,H.Y.Li,M.Wang,PAN–PEO solid polymer electrolytes withhighionicconductivity,Mater.Chem.Phys.89(2005)390–394.
+> *
+> *
+> *
