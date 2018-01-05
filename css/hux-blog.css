@@ -4,7 +4,7 @@
     padding-right: 5%;
   }
 }
-@media (min-width: 1280px) {
+@media (min-width: 768px) {
   .post-container {
     padding-right: 5%;
   }
@@ -114,7 +114,7 @@ br + small.img-hint {
 img.shadow {
   box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px;
 }
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 768px) {
   select {
     -webkit-appearance: none;
     margin-top: 15px;
@@ -179,7 +179,7 @@ pre code {
 .post-container ol {
   margin-bottom: 40px;
 }
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 768px) {
   .post-container ul,
   .post-container ol {
     padding-left: 30px;
@@ -295,7 +295,7 @@ pre code {
 .navbar-custom .nav li a:active {
   background: rgba(0, 0, 0, 0.12);
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -382,7 +382,7 @@ pre code {
   margin-bottom: 0px;
   /* 0 on mobile, modify by Hux */
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .intro-header {
     margin-bottom: 20px;
     /* response on desktop */
@@ -394,7 +394,7 @@ pre code {
   padding: 85px 0 55px;
   color: white;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
@@ -404,7 +404,7 @@ pre code {
 .intro-header .site-heading {
   padding: 95px 0 70px;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .intro-header .site-heading {
     padding: 150px 0;
   }
@@ -432,7 +432,7 @@ pre code {
   font-weight: 300;
   margin: 10px 0 0;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
@@ -469,7 +469,7 @@ pre code {
 .intro-header .post-heading .meta a {
   color: white;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -517,7 +517,7 @@ pre code {
   color: #0085a1;
   text-decoration: underline;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 26px;
     line-height: 1.3;
@@ -538,7 +538,7 @@ pre code {
 .post-content-preview:hover {
   color: #0085a1;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .post-content-preview {
     font-size: 14px;
   }
@@ -672,7 +672,7 @@ form .row:first-child .floating-label-form-group {
   background-color: white;
   border-radius: 0;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .pager li > a,
   .pager li > span {
     font-size: 14px;
@@ -743,7 +743,7 @@ body {
   background-color: rgba(255, 255, 255, 0.4);
   text-decoration: none;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .tags a,
   .tags .tag {
     margin-right: 5px;
@@ -752,7 +752,7 @@ body {
 #tag-heading {
   padding: 70px 0 60px;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   #tag-heading {
     padding: 55px 0;
   }
@@ -775,7 +775,7 @@ body {
 #tag_cloud .tag:active {
   background-color: #0085a1 !important;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   #tag_cloud {
     margin-bottom: 25px;
   }
@@ -783,7 +783,7 @@ body {
 .tag-comments {
   font-size: 12px;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .tag-comments {
     font-size: 14px;
   }
@@ -798,7 +798,7 @@ body {
 .listing-seperator::before {
   margin-right: 5px;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .listing-seperator {
     font-size: 20px !important;
     line-height: 2 !important;
@@ -832,7 +832,7 @@ body {
   font-size: 12px;
   line-height: 12px;
 }
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 768px) {
   .one-tag-list .post-preview {
     margin-left: 20px;
   }
