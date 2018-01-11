@@ -103,7 +103,8 @@ layout: default
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
-                            <img src="{{site.sidebar-avatar}}" />
+			    <!-- 头像图片 可以添加一个样式的设置 -->
+                            <img src="{{site.sidebar-avatar}}" style="border-radius:50%;"/>
                         {% endif %}
                         {% if site.sidebar-about-description %}
                             <p>{{site.sidebar-about-description}}</p>
