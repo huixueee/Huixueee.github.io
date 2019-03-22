@@ -2,9 +2,9 @@
 
 //toc变量
 :root{
-	--big-now-sidebar: calc(100vh - 80px);
+	--big-now-sidebar: none;
 	--min-now-sidebar: none;
-	--big-now-toc-text: '侧边栏';
+	--big-now-toc-text: '目录';
 	--min-now-toc-text: '目录';
 }                              
 
@@ -238,7 +238,6 @@ div {
 
 #blog-sidebar{
 	height: 100%;
-	display: none;
 }
 
 
@@ -1649,6 +1648,7 @@ figure.highlight,
 	max-height: inherit;
 	width: 100%;
 	overflow: auto;
+	display: none;
 }
 .toc-article {
 	background-color: #fff;
