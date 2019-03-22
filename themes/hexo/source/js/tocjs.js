@@ -30,7 +30,7 @@ function minTocShow(){
 }
 
 
-var switch_tag = 1;
+var switch_tag = 0;
 $('.toc-switch').click(function(){
     var state = $('.toc-and-sidebar').css('--min_tag');
     //1时为小屏
