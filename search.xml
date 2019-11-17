@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>HEXO操作指南（三）</title>
+      <link href="/2019/11/17/%E4%BD%BFhexo%E6%8E%A5%E5%85%A5google/"/>
+      <url>/2019/11/17/%E4%BD%BFhexo%E6%8E%A5%E5%85%A5google/</url>
+      
+        <content type="html"><![CDATA[<p>如果你不主动提交你的博客地址给各大搜索引擎，那么即使你站内优化做得再好，搜索引擎根本都不知道你的博客的存在。 为了让Google收录我的博客，就得向<a href="https://www.google.com/webmasters" target="_blank" rel="noopener">Google站长工具</a>提交我们得Sitemap。</p><h2 id="Google验证"><a href="#Google验证" class="headerlink" title="Google验证"></a>Google验证</h2><p>Google有多种验证方法，这里我选用Html标记，在<code>layout/_partial/head.pug</code>文件内输入<code>&lt;meta name=&quot;google-site-verification&quot; content=&quot;xxxxxxxxxxxxxxxxxx&quot; /&gt;</code>。<br>接着<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo c</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></p><p>上传完毕点击验证便可验证成功。</p><h2 id="Sitemap调用"><a href="#Sitemap调用" class="headerlink" title="Sitemap调用"></a>Sitemap调用</h2><p>首先安装sitemap插件：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure></p><p>接着在<code>_config.yml</code>文件后添加：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Plugins:</span><br><span class="line">  - hexo-generator-sitemap</span><br><span class="line"></span><br><span class="line">sitemap:</span><br><span class="line">  path: sitemap.xml</span><br></pre></td></tr></table></figure></p><p><strong>重点</strong>，把<code>_config.yml</code>中的<code>url</code>改成自己的域名，否者最终提交后会出现<strong>站点地图可读取，但存在错误</strong>。这样的字眼。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">url: https://huixueee.com</span><br></pre></td></tr></table></figure></p><p>这时<code>public</code>文件夹内会出现相应的sitemap文件，随后：<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo c</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></p><p>在Google search console中选择站点地图-&gt;添加/测试站点地图，提交后便大功告成。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Technology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HEXO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些好玩的3d科研图</title>
       <link href="/2019/11/16/c4d-rhino/"/>
       <url>/2019/11/16/c4d-rhino/</url>
