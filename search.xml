@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>一些好玩的3d科研图</title>
+      <link href="/2019/11/18/%E5%87%A0%E7%A7%8D%E7%A6%BB%E5%AD%90%E5%88%86%E6%95%A3%E6%96%B9%E5%BC%8F/"/>
+      <url>/2019/11/18/%E5%87%A0%E7%A7%8D%E7%A6%BB%E5%AD%90%E5%88%86%E6%95%A3%E6%96%B9%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><h3 id="相融"><a href="#相融" class="headerlink" title="相融"></a>相融</h3><p>可以看到几个球相互融合在一起，C4D直接克隆，当粒子数量较多便会出现该问题。</p><h3 id="相互分离"><a href="#相互分离" class="headerlink" title="相互分离"></a>相互分离</h3><p>C4D R19之后增加了一个非常好用的功能<strong>推散</strong>。顾名思义，推散将原本相融的粒子相互推散到指定的距离。当Box内粒子数量越多，粒子越接近相切。</p><h3 id="相切高阶玩法"><a href="#相切高阶玩法" class="headerlink" title="相切高阶玩法"></a>相切高阶玩法</h3><p>利用<strong>粒子发射器</strong>以及<strong>重力</strong>功能达到粒子团聚功能。</p><h4 id="粒子发射器"><a href="#粒子发射器" class="headerlink" title="粒子发射器"></a>粒子发射器</h4><p>添加粒子发射器，为了让粒子全方位发射，调整发射器角度（水平360°，垂直180°），同时为了保证粒子都是从一个点出来的，将水平/垂直尺寸都设置为1cm，随后克隆对象，将对象变更为发射器。</p><h4 id="重力"><a href="#重力" class="headerlink" title="重力"></a>重力</h4><p>我们给粒子添加<strong>刚体</strong>（标签-模拟标签-刚体）属性，随后点击动画发现所有粒子都往下运动，这时候在项目（Ctrl+D）里将力学标签中的重力属性从系统默认的1000改为0。接着添加<strong>力</strong>（模拟-动力学-力）属性。如果嫌团聚的球不够圆，将力标签中的外部距离从默认的500调整到1000。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3D Design </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Rhino </tag>
+            
+            <tag> C4D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HEXO操作指南（三）</title>
       <link href="/2019/11/17/%E4%BD%BFhexo%E6%8E%A5%E5%85%A5google/"/>
       <url>/2019/11/17/%E4%BD%BFhexo%E6%8E%A5%E5%85%A5google/</url>
