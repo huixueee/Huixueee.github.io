@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huixueee.com/2019/11/16/c4d-rhino/</loc>
+    
+    <lastmod>2019-11-17T15:18:08.682Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/2019/09/10/SEM%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</loc>
     
     <lastmod>2019-11-17T15:15:44.456Z</lastmod>
@@ -51,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/2019/11/16/c4d-rhino/</loc>
-    
-    <lastmod>2019-11-16T14:11:11.139Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huixueee.com/2019/09/17/%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E9%9D%A2%E8%AF%95/</loc>
     
     <lastmod>2019-09-20T13:12:28.108Z</lastmod>
@@ -75,13 +75,6 @@
     <loc>https://huixueee.com/about/index.html</loc>
     
     <lastmod>2019-09-13T01:48:01.567Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
   </url>
   
@@ -114,6 +107,13 @@
   </url>
   
   <url>
+    <loc>https://huixueee.com/photos/cat/tool.json</loc>
+    
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
@@ -121,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/tool.json</loc>
+    <loc>https://huixueee.com/photos/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
