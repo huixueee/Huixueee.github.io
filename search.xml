@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>一些好玩的3d科研图</title>
+      <title>3d科研图（二）</title>
       <link href="/2019/11/18/%E5%87%A0%E7%A7%8D%E7%A6%BB%E5%AD%90%E5%88%86%E6%95%A3%E6%96%B9%E5%BC%8F/"/>
       <url>/2019/11/18/%E5%87%A0%E7%A7%8D%E7%A6%BB%E5%AD%90%E5%88%86%E6%95%A3%E6%96%B9%E5%BC%8F/</url>
       
-        <content type="html"><![CDATA[<h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><h3 id="相融"><a href="#相融" class="headerlink" title="相融"></a>相融</h3><p>可以看到几个球相互融合在一起，C4D直接克隆，当粒子数量较多便会出现该问题。</p><h3 id="相互分离"><a href="#相互分离" class="headerlink" title="相互分离"></a>相互分离</h3><p>C4D R19之后增加了一个非常好用的功能<strong>推散</strong>。顾名思义，推散将原本相融的粒子相互推散到指定的距离。当Box内粒子数量越多，粒子越接近相切。</p><h3 id="相切高阶玩法"><a href="#相切高阶玩法" class="headerlink" title="相切高阶玩法"></a>相切高阶玩法</h3><p>利用<strong>粒子发射器</strong>以及<strong>重力</strong>功能达到粒子团聚功能。</p><h4 id="粒子发射器"><a href="#粒子发射器" class="headerlink" title="粒子发射器"></a>粒子发射器</h4><p>添加粒子发射器，为了让粒子全方位发射，调整发射器角度（水平360°，垂直180°），同时为了保证粒子都是从一个点出来的，将水平/垂直尺寸都设置为1cm，随后克隆对象，将对象变更为发射器。</p><h4 id="重力"><a href="#重力" class="headerlink" title="重力"></a>重力</h4><p>我们给粒子添加<strong>刚体</strong>（标签-模拟标签-刚体）属性，随后点击动画发现所有粒子都往下运动，这时候在项目（Ctrl+D）里将力学标签中的重力属性从系统默认的1000改为0。接着添加<strong>力</strong>（模拟-动力学-力）属性。如果嫌团聚的球不够圆，将力标签中的外部距离从默认的500调整到1000。</p>]]></content>
+        <content type="html"><![CDATA[<p>本教程适合C4D入门新人学习。</p><h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><h3 id="相融"><a href="#相融" class="headerlink" title="相融"></a>相融</h3><p>可以看到几个球相互融合在一起，C4D直接克隆，当粒子数量较多便会出现该问题。</p><center><img src="https://s2.ax1x.com/2019/11/19/Mg3ktA.png" alt> </center><h3 id="相互分离"><a href="#相互分离" class="headerlink" title="相互分离"></a>相互分离</h3><p>C4D R19之后增加了一个非常好用的功能<strong>推散</strong>。顾名思义，推散将原本相融的粒子相互推散到指定的距离。当Box内粒子数量越多，粒子越接近相切。</p><center><img src="https://s2.ax1x.com/2019/11/19/Mg3AfI.png" alt> </center><h3 id="相切高阶玩法"><a href="#相切高阶玩法" class="headerlink" title="相切高阶玩法"></a>相切高阶玩法</h3><p>利用<strong>粒子发射器</strong>以及<strong>重力</strong>功能达到粒子团聚功能。</p><h4 id="粒子发射器"><a href="#粒子发射器" class="headerlink" title="粒子发射器"></a>粒子发射器</h4><p>添加粒子发射器，为了让粒子全方位发射，调整发射器角度（水平360°，垂直180°），同时为了保证粒子都是从一个点出来的，将水平/垂直尺寸都设置为1cm，随后克隆对象，将对象变更为发射器。</p><h4 id="重力"><a href="#重力" class="headerlink" title="重力"></a>重力</h4><p>我们给粒子添加<strong>刚体</strong>（标签-模拟标签-刚体）属性，随后点击动画发现所有粒子都往下运动，这时候在项目（Ctrl+D）里将力学标签中的重力属性从系统默认的1000改为0。接着添加<strong>力</strong>（模拟-动力学-力）属性。如果嫌团聚的球不够圆，将力标签中的外部距离从默认的500调整到1000。</p><center><img src="https://s2.ax1x.com/2019/11/19/Mg3Vpt.png" alt> </center><p><a href="https://pan.baidu.com/s/1SaAUeBAJD9zMOLzpznFBrA" target="_blank" rel="noopener">点我下载源文件</a> 。</p>]]></content>
       
       
       <categories>
@@ -56,11 +56,11 @@
     
     
     <entry>
-      <title>一些好玩的3d科研图</title>
+      <title>3d科研图（一）</title>
       <link href="/2019/11/16/c4d-rhino/"/>
       <url>/2019/11/16/c4d-rhino/</url>
       
-        <content type="html"><![CDATA[<h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><h3 id="Catenary"><a href="#Catenary" class="headerlink" title="Catenary"></a>Catenary</h3><p>弯曲线条制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuIbT.png" alt> </center><p><a href="https://pan.baidu.com/s/1BcRBbGOczZSoDTxqb_TX9g" target="_blank" rel="noopener">点我下载源文件</a> 。</p><h3 id="Clew"><a href="#Clew" class="headerlink" title="Clew"></a>Clew</h3><p>线团制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuH54.png" alt> </center><p><a href="https://pan.baidu.com/s/1fhvbkq3_2XE02djqhm408g" target="_blank" rel="noopener">点我下载源文件</a> 。</p><h3 id="Metaball"><a href="#Metaball" class="headerlink" title="Metaball"></a>Metaball</h3><p>融合球体制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuTVU.png" alt> </center><p><a href="https://pan.baidu.com/s/1zwlwnivMs2Aa4hC02vnLuA" target="_blank" rel="noopener">点我下载源文件</a> ，源文件太大，换成GH电池图更方便。</p><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>最终3D文件导入C4D中，使用OC渲染(VRAY for Rhino真的太蛋疼了)。软件材质贴图以及渲染器插件在<a href="http://www.gfxcamp.com/category/software/" target="_blank" rel="noopener">gfxcamp</a>都能找到。未来会带来更多的3D科研制图。</p>]]></content>
+        <content type="html"><![CDATA[<p>本教程适合有一定Rhino以及C4D基础的人学习。</p><h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><h3 id="Catenary"><a href="#Catenary" class="headerlink" title="Catenary"></a>Catenary</h3><p>弯曲线条制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuIbT.png" alt> </center><p><a href="https://pan.baidu.com/s/1BcRBbGOczZSoDTxqb_TX9g" target="_blank" rel="noopener">点我下载源文件</a> 。</p><h3 id="Clew"><a href="#Clew" class="headerlink" title="Clew"></a>Clew</h3><p>线团制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuH54.png" alt> </center><p><a href="https://pan.baidu.com/s/1fhvbkq3_2XE02djqhm408g" target="_blank" rel="noopener">点我下载源文件</a> 。</p><h3 id="Metaball"><a href="#Metaball" class="headerlink" title="Metaball"></a>Metaball</h3><p>融合球体制作</p><center><img src="https://s2.ax1x.com/2019/11/16/MBuTVU.png" alt> </center><p><a href="https://pan.baidu.com/s/1zwlwnivMs2Aa4hC02vnLuA" target="_blank" rel="noopener">点我下载源文件</a> ，源文件太大，换成GH电池图更方便。</p><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>最终3D文件导入C4D中，使用OC渲染(VRAY for Rhino真的太蛋疼了)。软件材质贴图以及渲染器插件在<a href="http://www.gfxcamp.com/category/software/" target="_blank" rel="noopener">gfxcamp</a>都能找到。未来会带来更多的3D科研制图。</p>]]></content>
       
       
       <categories>
