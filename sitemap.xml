@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huixueee.com/about/index.html</loc>
+    
+    <lastmod>2019-12-09T05:19:54.917Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/2019/12/07/%E7%A7%91%E7%A0%94/SAXA/</loc>
     
-    <lastmod>2019-12-09T04:41:06.687Z</lastmod>
+    <lastmod>2019-12-09T04:59:20.642Z</lastmod>
     
   </url>
   
@@ -107,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/about/index.html</loc>
+    <loc>https://huixueee.com/2019/02/18/%E7%A7%91%E7%A0%94/%E7%A7%91%E7%A0%94-%E4%BB%AA%E5%99%A8%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E4%B8%80/</loc>
     
-    <lastmod>2019-09-13T01:48:01.567Z</lastmod>
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://huixueee.com/2019/02/18/%E7%A7%91%E7%A0%94/%E7%A7%91%E7%A0%94-%E4%BB%AA%E5%99%A8%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E4%B8%80/</loc>
+    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -128,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
+    <loc>https://huixueee.com/photos/cat/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -149,14 +156,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huixueee.com/photos/cat/index.html</loc>
+    <loc>https://huixueee.com/photos/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
