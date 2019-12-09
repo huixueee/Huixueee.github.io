@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>科研仪器基本原理（五）</title>
+      <link href="/2019/12/07/%E7%A7%91%E7%A0%94/SAXA/"/>
+      <url>/2019/12/07/%E7%A7%91%E7%A0%94/SAXA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="XRD-Basics"><a href="#XRD-Basics" class="headerlink" title="XRD Basics"></a>XRD Basics</h2><h3 id="Diffraction"><a href="#Diffraction" class="headerlink" title="Diffraction"></a>Diffraction</h3><p>翻开《基础物理》，瞅了眼第一章波的介绍<del>我觉得这本书并不基础</del>。言归正传，衍射(Diffraction)，<strong>是指波遇到障碍物时偏离原来直线传播的物理现象</strong>。在经典物理学中，波在穿过狭缝、小孔或圆盘之类的障碍物后会发生不同程度的弯散传播。举个栗子本科的<strong>杨氏双缝干涉实验</strong>中将一个障碍物置放在光源和观察屏之间，则会有光亮区域与阴暗区域出现于观察屏，而且这些区域的边界并不锐利，是一种明暗相间的复杂图样。<br>那么干涉和我要讲衍射有什么区别么？诺贝物理奖获得者<strong>费曼</strong>（搞出量子电动力学参加曼哈顿计划提出纳米技术的大佬）在<em>Lectures in Physics</em>一场讲座中这样说到：</p><blockquote><ul><li>没有人能够令人满意地定义干涉和衍射的区别。这只是术语用途的问题，其实二者在物理上并没有什么特别的、重要的区别。</li></ul></blockquote><p>他还提到，<strong>如果只有少数的波源（例如两个的时候），我们称这现象为“干涉”</strong>，例如我们称杨氏双缝实验中双缝所产生的两束光源产生了干涉现象。<strong>而当大量波源存在时，对应的过程被称作是“衍射”</strong>。在实际情况中，衍射和干涉往往是同时出现的。有文献这样总结：干涉是有限多个波束“相加”的结果，而衍射则是无限多个波束“积分”的结果。</p><h4 id="Huygens–Fresnel-principle"><a href="#Huygens–Fresnel-principle" class="headerlink" title="Huygens–Fresnel principle"></a>Huygens–Fresnel principle</h4><p>对于波是如何衍射的，惠更斯－菲涅耳原理（Huygens–Fresnel principle）给出了详细的解释方法。早在1678年惠更斯大佬的著作《光论》中说到：</p><blockquote><ul><li>在波动传播过程中的任一时刻，波面上的每一点都可以看作是一个新的波源，各自发射球面子波。所有子波的包络面，形成下一时刻的新波面。</li></ul></blockquote><center><img src="https://s2.ax1x.com/2019/09/10/naApQJ.png" alt> </center><p>惠更斯基于胡克的光波动说提出这一假设，这里还有一个小插曲（胡克本人公开批评牛顿的光微粒说。两位大师争吵不休，直至胡克去世。在那时期，由于艾萨克·牛顿在其它物理领域的成功，他被公认是光本质争论的赢家。在胡克去世后，牛顿一把火把胡克所有的画像全部烧毁，这就导致了到现在我们都不知道胡克大佬的真面目。）</p><p>回到衍射话题，借着这一原理，惠更斯可以给出波的直线传播与球面传播的定性解释，并且推导出<strong>反射定律</strong>与<strong>折射定律</strong>；<strong>但是他并不能解释，为什么当光波遇到边缘、孔径或狭缝时，会偏离了直线传播，即衍射效应</strong>。</p><p>1803年托马斯·杨行了一项非常著名的实验，这项实验展示了两条紧密相邻的狭缝造成的干涉现象，后人称之为“双缝实验”，另外这位大佬在做光学实验闲暇之余顺带提出了杨氏模量，血流动力学，甚至翻译了埃及象形字。。。。。。</p><p>托马斯·杨推翻了牛顿的光微粒说，菲涅耳在惠更斯原理的基础上假设，这些次波会彼此发生<strong>干涉</strong>（Interference）。这里又有一个小插曲（1817年，法兰西学术院举行了一次关于光的本性问题的科研成果最佳论文竞赛，评委泊松想推翻菲涅耳的观点，就借助于波动理论对衍射理论进行详细地分析。他发现：用一个圆片作为遮挡物时。光屏的中心应出现一个亮点（或者用圆孔做实验时，应该在光屏的中心出一个暗斑），这是令人难以相信的事实，过去也未曾有人见到过。评委会的另一位会员，阿拉戈亲自动手做这实验，获得的结果与预测相符合，证实菲涅耳原理正确无误。这个初看起来似乎是荒谬的结论，是泊松研究菲涅耳论文时把它当作谬误提出来的，但却成了支持波动说的强有力的证据。后来人们为了纪念这一极具戏剧性事实，就把衍射光斑中央出现的亮斑（或暗斑）称为“泊松光斑（Arago spot）”。</p><center><img src="https://s2.ax1x.com/2019/09/10/naApQJ.png" alt> </center><p>惠更斯－菲涅耳原理总结下来就是：</p><blockquote><ul><li>波面Σ上的每个面元dΣ都可以看作是新的波源，它们均发射球面子波，在与波面相距为r处的P点的光振动Ê0(P)，等于所有球面子波在该点的光振动Ê0(P)的相干叠加。</li></ul></blockquote><h3 id="X-ray-diffraction"><a href="#X-ray-diffraction" class="headerlink" title="X-ray diffraction"></a>X-ray diffraction</h3><p>上面说了那么多关于衍射的故事，其实看图就能比较清楚，这一章主要讲X射线衍射。X射线在之前的SEM讲解中提到过，也写了其产生的原因，具体可以查看先前的文章。</p><p>X射线自身波长(0.01~100Å)与晶体中原子核间距近似，<strong>晶体可以作为X射线的空间衍射光栅</strong>，即一束X射线照射到物体上时，受到物体中原子的散射，每个原子都产生散射波，这些波互相干涉，结果就产生衍射。衍射波叠加的结果使射线的强度在某些方向上加强，在其他方向上减弱。根据上述原理，某晶体的衍射花样的特征最主要的是两个：1) <strong>衍射线在空间的分布规律</strong>；2) <strong>衍射线束的强度</strong>。其中，衍射线的分布规律由晶胞大小，形状和位向决定，衍射线强度则取决于<strong>原子的品种和它们在晶胞的位置。因此，不同晶体具备不同的衍射图谱</strong>。</p><h4 id="Bragg’s-Law"><a href="#Bragg’s-Law" class="headerlink" title="Bragg’s Law"></a>Bragg’s Law</h4><p>对于X射线衍射，当光程差等于波长的整数倍时，晶面的散射线将加强，此时满足的条件为2dsinθ=nλ。</p><h3 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h3><p>这里放一个视频里面详细解释了XRD基本原理，这里感谢<a href="https://www.bruker.com/cn.html" target="_blank" rel="noopener">Bruker Corporation</a>的工作人员为我提供的视频。<br><br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://github.com/huixueee/video/blob/master/X射线衍射.mp4?raw=true"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> </p><h2 id="SAXA-Basics"><a href="#SAXA-Basics" class="headerlink" title="SAXA Basics"></a>SAXA Basics</h2><p>理论我还没看懂 囧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Science </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Material Science </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>几款香水测评</title>
       <link href="/2019/12/01/%E9%9A%8F%E7%AC%94/%E5%87%A0%E6%AC%BE%E9%A6%99%E6%B0%B4%E6%B5%8B%E8%AF%84/"/>
       <url>/2019/12/01/%E9%9A%8F%E7%AC%94/%E5%87%A0%E6%AC%BE%E9%A6%99%E6%B0%B4%E6%B5%8B%E8%AF%84/</url>
@@ -34,33 +59,6 @@
       <url>/2019/11/28/%E7%BB%98%E5%9B%BE/Realfloww%E2%80%94-1/</url>
       
         <content type="html"><![CDATA[<p>本教程适合C4D入门新人学习，<a href="https://pan.baidu.com/s/13br8LwVpNR1OTCEx1YJXDw" target="_blank" rel="noopener">Realflow插件下载</a> 提取码：<strong>kg6d</strong>。</p><h2 id="Realflow碰撞生成浪花"><a href="#Realflow碰撞生成浪花" class="headerlink" title="Realflow碰撞生成浪花"></a>Realflow碰撞生成浪花</h2><h3 id="前期工作"><a href="#前期工作" class="headerlink" title="前期工作"></a>前期工作</h3><p>首先绘制一个容器以及一个比容器空腔稍小的填充体。</p><center><img src="https://s2.ax1x.com/2019/11/28/QiY0Q1.png" alt> </center><h3 id="填充液体"><a href="#填充液体" class="headerlink" title="填充液体"></a>填充液体</h3><p>选择<code>Realflow sense</code>，在<code>Emitters</code>中选择<code>Fill</code>，随后在<code>Fill-Emission-Body</code>中添加你要填充液体的填充物。</p><center><img src="https://s2.ax1x.com/2019/11/28/QiYBsx.png" alt> </center><h3 id="Gravity以及Collider标签"><a href="#Gravity以及Collider标签" class="headerlink" title="Gravity以及Collider标签"></a>Gravity以及Collider标签</h3><p>随后点击动画，发现所有的液体都离开容器了，这是因为初始液体处于真空状态，添加<code>Realflow-Daemons-Gravity</code>。<br>运行动画后发现液体穿过了容器，这是因为<strong>C4D认为容器是一个没有碰撞体积的物件</strong>。为了让计算机正确识别容器是具有碰撞体积的物件，给容器添加标签<code>标签-Realflow标签-Collider</code>，再次运行动画就发现液体正确的填满了容器。</p><center><img src="https://s2.ax1x.com/2019/11/28/QiYdzR.png" alt> </center><h3 id="Crown标签"><a href="#Crown标签" class="headerlink" title="Crown标签"></a>Crown标签</h3><p>添加Crown标签<code>Realflow-Daemons-Crown</code>。这里需要注意<code>Crown</code>标签下<code>Creation frame</code>以及<code>Acting time</code>两个选项的作用。</p><blockquote><ul><li>Creation frame 以及 Acting time<br>Creation frame：溅射效果开始帧。<br>Acting time：溅射效果持续时间，数值越大效果越强烈。</li></ul></blockquote><h3 id="最终效果"><a href="#最终效果" class="headerlink" title="最终效果"></a>最终效果</h3><p>配合上球体下落，控制好帧数模仿撞击液体产生溅射效果。</p><center><img src="https://s2.ax1x.com/2019/11/27/QCosXt.png" alt> </center><h2 id="Realflow沿着固定轨迹流动"><a href="#Realflow沿着固定轨迹流动" class="headerlink" title="Realflow沿着固定轨迹流动"></a>Realflow沿着固定轨迹流动</h2><h3 id="前期工作-1"><a href="#前期工作-1" class="headerlink" title="前期工作"></a>前期工作</h3><p>绘制一条线。</p><h3 id="发射器选择"><a href="#发射器选择" class="headerlink" title="发射器选择"></a>发射器选择</h3><p>为了尽量模仿出水流效果，<code>Emmiters</code>选择<code>Circle</code>,其他发射器效果可以自行尝试。</p><h3 id="固定路径"><a href="#固定路径" class="headerlink" title="固定路径"></a>固定路径</h3><p>选择<code>Realflow-Daemons-DSpline</code>，将先前的曲线拽入<code>Spline object</code>中。调整发射器位置与角度，使其与第一个<code>Spline Control Circle</code>对应。这里需要注意<code>DSpline</code>标签下<code>Vortex strength</code>，<code>Axial strength</code>以及<code>Radial strength</code>三个选项的作用。</p><blockquote><ul><li>Vortex strength，Axial strength以及Radial strength<br>Vortex strength：涡流强度，液体以螺旋状态喷射，数值越大涡流越强。<br>Axial strength：轴向力强度，使液体沿喷射面法线喷射，越强越倾向垂直喷射。<br>Radial strength：最关键的选项，控制水流与路径的契合程度，数值越大水流运动轨迹越接近给定路径。</li></ul></blockquote><h3 id="最终效果-1"><a href="#最终效果-1" class="headerlink" title="最终效果"></a>最终效果</h3><p>配合上噪波，控制好噪波强度。</p><center><img src="https://s2.ax1x.com/2019/11/27/QCo6nP.png" alt> </center><h2 id="OC渲染液体材质注意事项"><a href="#OC渲染液体材质注意事项" class="headerlink" title="OC渲染液体材质注意事项"></a>OC渲染液体材质注意事项</h2><p>OC渲染器在渲染液体等透明材质时，会有很多噪点，这些噪点也被称为<strong>热成像噪点</strong>，这里给出几种消除办法。</p><blockquote><ul><li>消除办法<br>增加Samples数值，1080p的屏幕2500为极限，继续增加看不出效果差异。<br>减少GI clamp，该数值可以简单理解成进光量，进光量越少画面越暗，同时热成像噪点越少。<br>OC camera标签下减少Hotpixel removal数值。</li></ul></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 3D Design </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Rhino </tag>
-            
-            <tag> C4D </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>科研仪器基本原理（五）</title>
-      <link href="/2019/11/28/%E7%A7%91%E7%A0%94/SAXA/"/>
-      <url>/2019/11/28/%E7%A7%91%E7%A0%94/SAXA/</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
