@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>3d科研图（五）</title>
+      <link href="/2019/12/11/%E7%BB%98%E5%9B%BE/virus/"/>
+      <url>/2019/12/11/%E7%BB%98%E5%9B%BE/virus/</url>
+      
+        <content type="html"><![CDATA[<p>本教程适合C4D入门新人学习，<a href="https://pan.baidu.com/s/1inGEM-ebeAGjncIc2jNZTw" target="_blank" rel="noopener">Dual Graph插件下载</a> 。 </p><h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><center><img src="https://s2.ax1x.com/2019/12/11/QscX0f.jpg" alt> </center><h2 id="自组装结构绘制"><a href="#自组装结构绘制" class="headerlink" title="自组装结构绘制"></a>自组装结构绘制</h2><h3 id="利用Dual-Graph细分球面"><a href="#利用Dual-Graph细分球面" class="headerlink" title="利用Dual Graph细分球面"></a>利用Dual Graph细分球面</h3><p>绘制一个球体，类行选择<strong>二十面体</strong>，添加Dual Graph后可以观察到球面变成了规整六边形。右键选择<strong>当前状态转对象</strong>。</p><center><img src="https://s2.ax1x.com/2019/12/11/QsyZAe.png" alt> </center><br><center><img src="https://s2.ax1x.com/2019/12/11/Qsy9pR.png" alt> </center><h3 id="内部挤压"><a href="#内部挤压" class="headerlink" title="内部挤压"></a>内部挤压</h3><p>选择多边形编辑模式，双击模型全选所有面后右键<strong>内部挤压</strong>，取消勾选<strong>保持群组</strong>。选择适当的偏移数后设置选集。</p><center><img src="https://s2.ax1x.com/2019/12/11/QsyA0O.png" alt> </center><br><center><img src="https://s2.ax1x.com/2019/12/11/QsyP6x.png" alt> </center><h3 id="运动挤压"><a href="#运动挤压" class="headerlink" title="运动挤压"></a>运动挤压</h3><p>选择运动挤压，将之前的选集拖拽到多边形选集中（让运动挤压正确识别要挤压的对象），选择合适Z值（挤压长度）。</p><center><img src="https://s2.ax1x.com/2019/12/11/QsyiX6.png" alt> </center><h3 id="步幅"><a href="#步幅" class="headerlink" title="步幅"></a>步幅</h3><p>效果器中添加步幅效果，更改效果器强度大小，选择自己喜欢的样式吧！</p><center><img src="https://s2.ax1x.com/2019/12/11/Qscj78.png" alt> </center>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3D Design </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Rhino </tag>
+            
+            <tag> C4D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>科研仪器基本原理（五）</title>
       <link href="/2019/12/07/%E7%A7%91%E7%A0%94/SAXA/"/>
       <url>/2019/12/07/%E7%A7%91%E7%A0%94/SAXA/</url>

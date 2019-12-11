@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huixueee.com/2019/12/11/%E7%BB%98%E5%9B%BE/virus/</loc>
+    
+    <lastmod>2019-12-11T12:17:17.075Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/about/index.html</loc>
     
-    <lastmod>2019-12-09T05:19:54.917Z</lastmod>
+    <lastmod>2019-12-09T06:51:40.478Z</lastmod>
     
   </url>
   
@@ -121,13 +128,6 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huixueee.com/search/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
@@ -135,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/index.html</loc>
+    <loc>https://huixueee.com/photos/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -149,6 +149,13 @@
   </url>
   
   <url>
+    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
+    
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/photos/cat/tool.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
@@ -156,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
+    <loc>https://huixueee.com/photos/cat/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
