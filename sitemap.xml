@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huixueee.com/2020/01/01/%E7%BB%98%E5%9B%BE/voronoi/</loc>
+    
+    <lastmod>2019-12-31T17:01:54.998Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/2019/12/31/%E7%BB%98%E5%9B%BE/%E6%99%B6%E6%A0%BC/</loc>
     
-    <lastmod>2019-12-31T16:01:38.540Z</lastmod>
+    <lastmod>2019-12-31T16:29:07.493Z</lastmod>
     
   </url>
   
@@ -149,7 +156,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/index.html</loc>
+    <loc>https://huixueee.com/photos/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -163,14 +170,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huixueee.com/photos/cat/tool.json</loc>
+    <loc>https://huixueee.com/photos/cat/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -184,7 +184,14 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
+    <loc>https://huixueee.com/photos/cat/tool.json</loc>
+    
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
