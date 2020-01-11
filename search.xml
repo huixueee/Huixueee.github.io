@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>3d科研图（八）</title>
+      <link href="/2020/01/11/%E7%BB%98%E5%9B%BE/%E5%80%92%E8%A7%92%E7%9A%84%E8%BF%90%E7%94%A8/"/>
+      <url>/2020/01/11/%E7%BB%98%E5%9B%BE/%E5%80%92%E8%A7%92%E7%9A%84%E8%BF%90%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<p>本教程适合C4D入门新人学习。</p><h2 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h2><center><img src="https://s2.ax1x.com/2020/01/11/lIgZtI.gif" alt> </center><h2 id="动画制作过程"><a href="#动画制作过程" class="headerlink" title="动画制作过程"></a>动画制作过程</h2><h3 id="球体倒角"><a href="#球体倒角" class="headerlink" title="球体倒角"></a>球体倒角</h3><p>绘制一个球体，类行设置为二十面体，分段设置为12，添加三次倒角，倒角参数选择多边形。</p><center><img src="https://s2.ax1x.com/2020/01/11/lIcWwj.png" alt> </center><h3 id="设置用户数据"><a href="#设置用户数据" class="headerlink" title="设置用户数据"></a>设置用户数据</h3><p>点选组，在用户数据中点击新增数据<strong>倒角</strong>。随后打开XPresso进行下一步配置。</p><center><img src="https://s2.ax1x.com/2020/01/11/lIc4kn.png" alt> </center><h3 id="XPresso同步动画"><a href="#XPresso同步动画" class="headerlink" title="XPresso同步动画"></a>XPresso同步动画</h3><p>打开XPresso，将所有倒角绑定到总控制杆。这样我们就能用我们的<strong>倒角</strong>配置控制所有倒角的偏移数，大功告成。</p><center><img src="https://s2.ax1x.com/2020/01/11/lIcfTs.png" alt> </center><p><a href="https://pan.baidu.com/s/1FE42BClgt7qjZwBSYSfFqQ" target="_blank" rel="noopener">点我下载源文件</a> 。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 3D Design </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Rhino </tag>
+            
+            <tag> C4D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>3d科研图（七）</title>
       <link href="/2020/01/01/%E7%BB%98%E5%9B%BE/voronoi/"/>
       <url>/2020/01/01/%E7%BB%98%E5%9B%BE/voronoi/</url>
