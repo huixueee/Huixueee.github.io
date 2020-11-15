@@ -151,16 +151,16 @@
 .myalbums-box{
 	position: absolute;
 	top: -15px;
-	width: 85%;
-	height: 83%;
+	width: 95%;
+	height: 85%;
 }
 
 .myalbums .thumb {
     text-align: center;
     list-style: none;
     float: left;
-    width: 180px;
-    height: 132px;
+    width: 260px;
+    height: 160px;
     margin: 10px;
     padding: 8px;
     background: #F4F4F4;
@@ -182,28 +182,28 @@
 
 .thumb figcaption {
     width: 100%;
-    line-height: 20px;
+    line-height: 5px;
     max-height: 20px;
-    overflow: hidden;
-    font-size: 14px;
+    /*overflow: hidden;*/
+    font-size: 16px;
     word-wrap: break-word;
 }
 
-.myalbums .thumb:before {
-    width: 75%;
-    height: 20%;
-    content: ' ';
-    box-shadow: 0 8px 16px rgba(0,0,0,.3);
-    position: absolute;
-    bottom: 7px;
-    z-index: -1;
-}
+/*.myalbums .thumb:before {*/
+/*    width: 75%;*/
+/*    height: 20%;*/
+/*    content: ' ';*/
+/*    box-shadow: 0 8px 16px rgba(0,0,0,.3);*/
+/*    position: absolute;*/
+/*    bottom: 7px;*/
+/*    z-index: -1;*/
+/*}*/
 
-.myalbums .thumb:before {
-    -webkit-transform: skew(-15deg) rotate(-5deg);
-    transform: skew(-15deg) rotate(-5deg);
-    left: 15px;
-}
+/*.myalbums .thumb:before {*/
+/*    -webkit-transform: skew(-15deg) rotate(-5deg);*/
+/*    transform: skew(-15deg) rotate(-5deg);*/
+/*    left: 15px;*/
+/*}*/
 
 @media screen and (max-width:600px) {
 	.instagram .thumb {

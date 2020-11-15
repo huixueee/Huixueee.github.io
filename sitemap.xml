@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huixueee.com/photos/index.html</loc>
+    
+    <lastmod>2020-11-15T08:39:58.409Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/2019/12/19/%E9%9A%8F%E7%AC%94/%E5%BF%83%E6%83%85/</loc>
     
     <lastmod>2020-11-15T06:37:08.820Z</lastmod>
@@ -149,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
+    <loc>https://huixueee.com/search/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://huixueee.com/search/index.html</loc>
+    <loc>https://huixueee.com/photos/hangzhou/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -170,21 +177,7 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/tibet.json</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huixueee.com/photos/cat/tool.json</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huixueee.com/photos/hangzhou/tibet.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
