@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/2019/12/31/%E9%9A%8F%E7%AC%94/%E5%B0%8F%E4%B8%91/</loc>
-    
-    <lastmod>2019-12-31T15:52:10.530Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huixueee.com/2019/11/16/%E7%BB%98%E5%9B%BE/c4d-rhino/</loc>
     
     <lastmod>2019-11-19T04:23:53.390Z</lastmod>
@@ -156,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/search/index.html</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://huixueee.com/photos/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
@@ -170,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/tool.json</loc>
+    <loc>https://huixueee.com/search/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/tibet.json</loc>
+    <loc>https://huixueee.com/photos/cat/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
@@ -191,7 +177,14 @@
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/cat/index.html</loc>
+    <loc>https://huixueee.com/photos/cat/tibet.json</loc>
+    
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://huixueee.com/photos/cat/tool.json</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
