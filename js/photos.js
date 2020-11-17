@@ -8,7 +8,6 @@ var photo_render = function(page, data) {
             + '<img lazy-src="https://raw.githubusercontent.com/huixueee/00/master/photo/'
             + data[i]
             + '" />' + '</div></li>';
-        //img += '<img src="http://yourqiniu.url.com/' + data[i] + '" />';
     }
     $(".img-box-ul").append(img);
     $(".img-box-ul").lazyload();
