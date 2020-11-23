@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huixueee.com/photos/xian/tool.json</loc>
+    <loc>https://huixueee.com/photos/index.html</loc>
     
-    <lastmod>2020-11-23T04:34:21.447Z</lastmod>
+    <lastmod>2020-11-23T04:49:47.496Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://huixueee.com/photos/index.html</loc>
+    <loc>https://huixueee.com/photos/xian/tool.json</loc>
     
-    <lastmod>2020-11-23T04:33:12.837Z</lastmod>
+    <lastmod>2020-11-23T04:34:21.447Z</lastmod>
     
   </url>
   
@@ -184,6 +184,13 @@
   </url>
   
   <url>
+    <loc>https://huixueee.com/photos/cat/index.html</loc>
+    
+    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://huixueee.com/photos/sanxia/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
@@ -192,13 +199,6 @@
   
   <url>
     <loc>https://huixueee.com/photos/xian/index.html</loc>
-    
-    <lastmod>2019-03-29T12:02:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://huixueee.com/photos/cat/index.html</loc>
     
     <lastmod>2019-03-29T12:02:14.000Z</lastmod>
     
